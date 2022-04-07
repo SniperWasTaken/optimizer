@@ -55,6 +55,9 @@ https://github.com/hellzerg/optimizer/blob/master/CONFS.md
 ## Changelog: ##
 https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md
 
+## Discord Server ##
+https://discord.gg/3KEyXwGHux
+
 ## Early development images: ##
 https://github.com/hellzerg/optimizer/blob/master/LEGACY.md
 
